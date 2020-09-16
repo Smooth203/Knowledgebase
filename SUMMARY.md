@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Title](README.md)
+* [Introduction](README.md)
 * [Home](https://waggett.uk)
 * [Kidneys](kidneys.md)
 * [Bowman's Capsule](bowmans-capsule.md)
