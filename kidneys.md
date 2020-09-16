@@ -1,5 +1,5 @@
 ---
-description: '[kidneys] kidney biology body biochem biochemistry clinical nephron'
+description: kidneys kidney biology body biochem biochemistry clinical nephron
 ---
 
 # Kidneys
